@@ -2,8 +2,6 @@
 
 The code is for "High-dimensional small-sample-size data analysis using elastic net based feature ranking"
 
- Shaode Yu, yushaodemia@163.com
-
    Purpose
        High-dimensional small-sample-size data analysis
            using elastic net based feature ranking
